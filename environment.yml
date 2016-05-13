@@ -37,6 +37,7 @@ dependencies:
 - notebook=4.2.0=py35_0
 - numpy=1.11.0=py35_0
 - openssl=1.0.2h=0
+- pandas
 - path.py=8.2.1=py35_0
 - pexpect=4.0.1=py35_0
 - pickleshare=0.5=py35_0
